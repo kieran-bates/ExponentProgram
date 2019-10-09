@@ -71,6 +71,5 @@ public class ExponentProgram {
                 programStop = true; //Set program stop to true and terminate the program
             }
         }
-    }
-    
+    } 
 }
